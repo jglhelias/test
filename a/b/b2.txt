@@ -1,0 +1,2 @@
+not empty
+else b0 is renamed b2
